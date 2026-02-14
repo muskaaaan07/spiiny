@@ -22,8 +22,6 @@ export default function Footer() {
             <ul className="space-y-4 text-sm text-slate-500">
               <li><a href="#features" className="hover:text-slate-900 transition-colors">Features</a></li>
               <li><a href="#pricing" className="hover:text-slate-900 transition-colors">Pricing</a></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">Integrations</a></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">Changelog</a></li>
             </ul>
           </div>
 
@@ -31,8 +29,8 @@ export default function Footer() {
             <h4 className="font-bold text-slate-900 mb-6">Company</h4>
             <ul className="space-y-4 text-sm text-slate-500">
               <li><a href="#founder" className="hover:text-slate-900 transition-colors">About Us</a></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">Terms of Service</a></li>
+              <li><a href="https://www.termsfeed.com/live/a0fea859-7ec5-446b-b517-4065cfb95cac" className="hover:text-slate-900 transition-colors">Privacy Policy</a></li>
+              <li><a href="https://www.termsfeed.com/live/467828b7-13ee-4dde-b0c0-9215a33c794b" className="hover:text-slate-900 transition-colors">Terms of Service</a></li>
             </ul>
           </div>
 
