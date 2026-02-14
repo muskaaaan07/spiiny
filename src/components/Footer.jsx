@@ -13,14 +13,6 @@ export default function Footer() {
               The next generation data intelligence platform. Turn raw data into beautiful insights in seconds.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-8 h-8 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:bg-slate-900 hover:text-white transition-all">
-                <Twitter size={16} />
-              </a>
-              <a href="#" className="w-8 h-8 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:bg-slate-900 hover:text-white transition-all">
-                <Linkedin size={16} />
-              </a>
-              <a href="#" className="w-8 h-8 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:bg-slate-900 hover:text-white transition-all">
-                <Github size={16} />
               </a>
             </div>
           </div>
