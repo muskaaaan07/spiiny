@@ -39,7 +39,6 @@ export default function Footer() {
             <h4 className="font-bold text-slate-900 mb-6">Company</h4>
             <ul className="space-y-4 text-sm text-slate-500">
               <li><a href="#founder" className="hover:text-slate-900 transition-colors">About Us</a></li>
-              <li><a href="#" className="hover:text-slate-900 transition-colors">Careers</a></li>
               <li><a href="#" className="hover:text-slate-900 transition-colors">Privacy Policy</a></li>
               <li><a href="#" className="hover:text-slate-900 transition-colors">Terms of Service</a></li>
             </ul>
