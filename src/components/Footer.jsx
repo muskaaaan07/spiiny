@@ -53,7 +53,7 @@ export default function Footer() {
                 <MapPin size={18} className="text-slate-400 shrink-0" />
                 <span>
                   Banjara Hills, Singada Kunta, Rd no. 10,<br />
-                  Hyderabad, Telangana, India
+                  Hyderabad, Telangana,500034 India
                 </span>
               </li>
             </ul>
