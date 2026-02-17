@@ -34,11 +34,12 @@ export default function Founder() {
                 
                 <div className="flex flex-wrap gap-6">
                   <div className="flex items-center gap-2 text-slate-300">
-                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
-                      <size={16} />
-                    </div>
-                    <span className="text-sm">+91 9573174142</span>
-                  </div>
+  <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
+    <Phone size={16} />
+  </div>
+  <span className="text-sm">+91 9573174142</span>
+</div>
+
                   <div className="flex items-center gap-2 text-slate-300">
                     <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
                       <Mail size={16} />
