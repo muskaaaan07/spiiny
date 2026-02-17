@@ -13,7 +13,6 @@ export default function Footer() {
               The next generation data intelligence platform. Turn raw data into beautiful insights in seconds.
             </p>
             <div className="flex gap-4">
-              </a>
             </div>
           </div>
 
